@@ -1,4 +1,4 @@
-# Data Science Projects Overview#
+# Data Science Projects Overview
 
 **Exploring eBay Car Sales**
 
