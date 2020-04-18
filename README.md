@@ -1,10 +1,11 @@
 # Data Science Projects Overview
 
-**Exploring eBay Car Sales**
+### Exploring eBay Car Sales
+**Aim**
 
 In this project, we'll clean and analyse the data of used car listings from eBay Kleinanzeigen which is a classifieds section of the German eBay website.
 
-*Summary*
+**Summary**
 
 In summary, these are the things that we have achieved in this project:
 - We cleaned the column names to be snakecase and more descriptive.
