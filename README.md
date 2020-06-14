@@ -1,9 +1,11 @@
 # Data Science Projects Overview
 
-### Hacker News Post Analysis
-Hacker News is a site started by the startup incubator Y Combinator where users are able to submit posts, particularly in technology and startup circles. These posts are then voted and commented upon which has a similar concept to reddit.
+### Hacker News Post Analysis 
+#### Project type: Data Analysis
 
 **Aim**
+
+Hacker News is a site started by the startup incubator Y Combinator where users are able to submit posts, particularly in technology and startup circles. These posts are then voted and commented upon which has a similar concept to reddit.
 
 In this project we'll analyse the posts whose titles begin with either Ask HN or Show HN. We'll compare these two types of posts to determine the following:
 
@@ -17,6 +19,7 @@ In conclusion, we found that Ask HN posts received a greater number of comments 
 ---
 
 ### Exploring eBay Car Sales
+#### Project type: Data Cleaning, Data Analysis
 **Aim**
 
 In this project, we'll clean and analyse the data of used car listings from eBay Kleinanzeigen which is a classifieds section of the German eBay website.
