@@ -66,8 +66,8 @@ SQL can be a powerful tool to manipulate databases to find solutions to a variet
 
 In this project, we'll work on a dataset with data on the job outcomes of students who graduated from college between 2010 and 2012. By using data visualization techniques, we will aim to answer the following questions:
 
-Do students in more popular majors make more money?
-How many majors are predominantly male? Predominantly female?
+* Do students in more popular majors make more money?
+* How many majors are predominantly male? Predominantly female?
 
 **Summary**
 
