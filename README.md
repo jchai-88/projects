@@ -56,3 +56,22 @@ In this project, we will be using the Chinook Database which is a SQLite sample 
 **Summary**
 
 SQL can be a powerful tool to manipulate databases to find solutions to a variety of business questions.
+
+---
+
+### Visualizing Earnings Based on College Majors
+#### Project type: Data Visualization
+
+**Aim**
+
+In this project, we'll work on a dataset with data on the job outcomes of students who graduated from college between 2010 and 2012. By using data visualization techniques, we will aim to answer the following questions:
+
+Do students in more popular majors make more money?
+How many majors are predominantly male? Predominantly female?
+
+**Summary**
+
+In conclusion, data visualization techniques are useful for us to understand our data better. We conclude that:
+
+* Students in more popular majors do not make more money.
+* Approximately 42% of the majors are predominantly female and 32% of majors are predominantly males.
