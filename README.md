@@ -35,3 +35,24 @@ In this project we'll analyse the posts whose titles begin with either Ask HN or
 
 In conclusion, we found that Ask HN posts received a greater number of comments on average so we decided investigate further into Ask HN posts. This lead us to conclude that the best hour to create a post that'll receive the most number of comments on average is at 3 pm EST. If that is not achievable, the best time of day to create a post is in the afternoon from 12pm est to 6pm EST. Lastly, we also noted that Show HN posts are more popular/liked by users.
 
+---
+
+### Answering Business Questions in SQL
+#### Project type: Data Analysis with SQL
+
+**Aim**
+
+In this project, we will be using the Chinook Database which is a SQLite sample database to answer the following business questions.
+
+1. There are 4 new albums by artists that don't have any tracks in the Chinook record store. Which three should we purchase?
+2. Are the sales support agents performing better or worse than others?
+3. How do the number of customers and sales compare in different countries?
+4. Should the Chinook store only purchase individual tracks from an album instead of the whole album?
+5. Which artist is used in the most playlist?
+6. How many tracks have been purchased vs not purchased?
+7. Is the range of tracks in the store reflective of their sales popularity?
+8. Do protected vs non-protected media types have an effect on popularity?
+
+**Summary**
+
+SQL can be a powerful tool to manipulate databases to find solutions to a variety of business questions.
